@@ -27,7 +27,6 @@
   }
 
   context.utils = {
-    generateStar,
-    generateRGB
+    generateStar
   }
 })(window)
