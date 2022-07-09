@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "less.compile": {
+    "compress":true,
+    "sourceMap": false,
+    "out": "../css/",
+    "relativeUrls": true,
+    "outExt": ".css"
+  }
+}
